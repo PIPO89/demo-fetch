@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    GiHub Team - Software Developer
 
 # THANKS
 
